@@ -1,5 +1,5 @@
 # Cpp-Crash-Course-exercises-solutions_JoshLospinosoBook
-C++ Crash Course: A Fast-Paced Introduction" by Josh Lospinoso, published by No Starch Press.
+"C++ Crash Course: A Fast-Paced Introduction" by Josh Lospinoso, published by No Starch Press.
 Directoriy's content : My personal solutions for the book's exercises. 
 
 Structure:
