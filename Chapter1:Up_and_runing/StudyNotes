@@ -1,0 +1,11 @@
+This chapter handels logistics including instalation of the prefered IDE and compiler.
+Cpp is wildly considered very complex and i may no be able to study it in it's entierty.
+Source file - human readable precompiled code file.
+"Entery point" - a function which is been executed when the user runs the programs. 
+In cpp it's the main function but we may start more than one function such that.
+"Function" - Blocks of code which: input -> Funtion -> output.
+Exit Codes - Integers the OS uses to determine sucess/failure.
+In cpp, 0 == Success. Else (!=0) -> failure. 0 (success) is defult.
+Printf is defined in <cstdio> lib
+
+
